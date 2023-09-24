@@ -44,6 +44,7 @@ if score==100 or not (rainy):
    print ("i will give u 1000 dollar")
 else:
    print("u give me 100 dollar")
+   print(1)
 
 
 def max_num(num1,num2,num3):
